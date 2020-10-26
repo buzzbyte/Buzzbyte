@@ -1,13 +1,4 @@
-# Hello World
-
-I'm just your average everyday ~~weeb~~ programmer. :sunglasses:
-
-
-
----
-:thinking: Hmm... What if this "secret" repo can also be used to host a GitHub Pages site...
-
-Naaahh, that's too crazy.
+# **LONG LIVE YOUTUBE-DL**
 
 <!--
 **buzzbyte/Buzzbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
